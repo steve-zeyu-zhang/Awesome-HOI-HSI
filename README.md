@@ -1,1 +1,1 @@
-# Awesome-HOI-HSI
+# Human-Object and Human-Scene Interaction: A Survey
